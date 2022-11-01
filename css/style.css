@@ -90,6 +90,7 @@ body {
 	display: flex;
 	justify-content: center;
 	position: relative;
+	overflow-x: hidden;
 }
 .triangle-top-left{
 	position: absolute;
